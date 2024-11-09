@@ -1,0 +1,39 @@
+footer {
+    max-width: 1160px;
+    margin: auto;
+    background-color: #17abb3;
+}
+
+.social-icons {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 0;
+}
+
+.social-icons a {
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    padding: 10px;
+}
+
+.time {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.time p {
+    font-family: 'Raleway', sans-serif;
+    font-style: italic;
+    font-size: 15px;
+    color: white;
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+.social-icons i:hover {
+    opacity: 0.5;
+}
